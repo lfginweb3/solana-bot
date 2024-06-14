@@ -15,6 +15,7 @@ Omnipotent Trading Bot for SPL token on Solana. The most powerful and the best A
 - ### Anti-MEV and anti-sandwich attack mechanism;
 - ### Minimum gas consumption (as low as $0.001 per transaction);
 - ### Rapid on-chain transaction confirmation, <2s on average even thought Solana has been undergoing congestion.
+![TOKEN AMM](https://github.com/lfginweb3/solana-trading-bot/assets/172020678/ed7d16c4-002e-4423-b73c-f5c4dde0bacb)
 
 
 ## Snapshots

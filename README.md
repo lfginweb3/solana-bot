@@ -6,8 +6,8 @@ Omnipotent Trading Bot for SPL token on Solana. The most powerful and the best A
 
 
 ## KEY FEATURES
-` Automatic hosting of full life-cycle of tokens (Create, prepare, listing, auto trading, take profits, burn and clean);`
-` ### Real-time overall PnL dashboard (Identifying AMM wallets and market wallets to calculate PnL seperately);
+- ### Automatic hosting of full life-cycle of tokens (Create, prepare, listing, auto trading, take profits, burn and clean); 
+- ### Real-time overall PnL dashboard (Identifying AMM wallets and market wallets to calculate PnL seperately); 
 ### `The lowest market id creation fee, less than 0.3 SOL;`
 ### `Bundle large amount buy orders after create a pool to rocket token price with anti-snipe protecting (No one else can sinpe this whole process except yourself);`
 ### `Easily control thousands wallets for market making;`

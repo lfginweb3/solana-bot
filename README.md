@@ -7,14 +7,14 @@ Omnipotent Trading Bot for SPL token on Solana. The most powerful and the best A
 
 ## KEY FEATURES
 - ##### Automatic hosting of full life-cycle of tokens (Create, prepare, listing, auto trading, take profits, burn and clean); 
-- ### Real-time overall PnL dashboard (Identifying AMM wallets and market wallets to calculate PnL seperately); 
-- ### The lowest market id creation fee, less than 0.3 SOL;
-- ### Bundle large amount buy orders after create a pool to rocket token price with anti-snipe protecting (No one else can sinpe this whole process except yourself);
-- ### Easily control thousands wallets for market making;
-- ### Auto hosting service with auto boost token holders, auto boost trasaction count, auto boost trading volume;
-- ### Anti-MEV and anti-sandwich attack mechanism;
-- ### Minimum gas consumption (as low as $0.001 per transaction);
-- ### Rapid on-chain transaction confirmation, <2s on average even thought Solana has been undergoing congestion.
+- ##### Real-time overall PnL dashboard (Identifying AMM wallets and market wallets to calculate PnL seperately); 
+- ##### The lowest market id creation fee, less than 0.3 SOL;
+- ##### Bundle large amount buy orders after create a pool to rocket token price with anti-snipe protecting (No one else can sinpe this whole process except yourself);
+- ##### Easily control thousands wallets for market making;
+- ##### Auto hosting service with auto boost token holders, auto boost trasaction count, auto boost trading volume;
+- ##### Anti-MEV and anti-sandwich attack mechanism;
+- ##### Minimum gas consumption (as low as $0.001 per transaction);
+- ##### Rapid on-chain transaction confirmation, <2s on average even thought Solana has been undergoing congestion.
 ![TOKEN AMM](https://github.com/lfginweb3/solana-trading-bot/assets/172020678/ed7d16c4-002e-4423-b73c-f5c4dde0bacb)
 
 

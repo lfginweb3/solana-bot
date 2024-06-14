@@ -9,7 +9,7 @@ Omnipotent Trading Bot for SPL token on Solana. The most powerful and the best A
 - ##### Automatic hosting of full life-cycle of tokens (Create, prepare, listing, auto trading, take profits, burn and clean); 
 - ##### Real-time overall PnL dashboard (Identifying AMM wallets and market wallets to calculate PnL seperately); 
 - ##### The lowest market id creation fee, less than 0.3 SOL;
-- ##### Bundle large amount buy orders after create a pool to rocket token price with anti-snipe protecting (No one else can sinpe this whole process except yourself);
+- ##### Bundle large amount buy orders after creating a pool to rocket token price with anti-snipe/anti-mev protection (No one else can sinpe this whole process except yourself);
 - ##### Easily control thousands wallets for market making;
 - ##### Auto hosting service with auto boost token holders, auto boost trasaction count, auto boost trading volume;
 - ##### Anti-MEV and anti-sandwich attack mechanism;
@@ -36,6 +36,8 @@ Omnipotent Trading Bot for SPL token on Solana. The most powerful and the best A
 
 ## Pricing
 We only provide our system to a limitted number of customers, to make a better ecosystem and preventing competition with each other. (5 in total currently) 
+
+Due to complexity of internal processing of our system, it is not feasible to build the program environment yourself. We'll handle these jobs.
 
 For security reason and overall stability, we will deploy the system for each partner on different servers seperately.
 

@@ -22,7 +22,7 @@ Omnipotent Trading Bot for SPL token on Solana. The most powerful and the best A
 ![amm_1](https://github.com/lfginweb3/solana-trading-bot/assets/172020678/0f66ec44-49ba-491a-8b30-fcfd9bb275c8)
 ![amm_2](https://github.com/lfginweb3/solana-trading-bot/assets/172020678/a90bca0d-41ec-41f1-9274-227dd4b54fa9)
 ![amm_3](https://github.com/lfginweb3/solana-trading-bot/assets/172020678/d4fe7956-fe4f-45c1-ad0f-fc45c920f71b)
-![token_list](https://github.com/lfginweb3/solana-trading-bot/assets/172020678/e8ec6fa0-bef2-4677-ab71-4561dcdc32a8)
+![token_list](https://github.com/lfginweb3/solana-trading-bot/assets/172020678/43950372-1ed6-44ec-a6c2-e7e4c1d20b13)
 ![token_operations](https://github.com/lfginweb3/solana-trading-bot/assets/172020678/88abea7c-dd50-4e92-8a34-a1b5275a04be)
 
 

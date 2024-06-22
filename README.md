@@ -41,7 +41,7 @@ Due to complexity of internal processing of our system, it is not feasible to bu
 
 For security reason and overall stability, we will deploy the system for each partner on different servers seperately.
 
-Time-limited offer: `10 SOL` for initial fee (Available for 1 month for 20 token AMM quota)
+Time-limited offer: `10 SOL` for initial fee (Available for 1 month for 10 token AMM quota. Guarantee 1 SOL profit at least, otherwise we don't charge you anyway.)
 
   
 ## CONTACT

@@ -4,6 +4,7 @@
 ### solana-auto-market-making-bot
 Omnipotent Trading Bot for SPL token on Solana. The most powerful and the best Automatic Market Making System(boost token holders, boost trading volume, etc...)
 
+### THE ONLY ONE SUPPORTS MOONSHOT IN THE MARKET!
 
 ## KEY FEATURES
 - ##### Automatic hosting of full life-cycle of tokens (Create, prepare, listing, auto trading, take profits, burn and clean); 

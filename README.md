@@ -1,4 +1,6 @@
 
+## Omnipotent Token AMM v3.0
+### Pump.fun AMM fully supported!
 
 ## Omnipotent Token AMM v2.0
 ### solana-auto-market-making-bot

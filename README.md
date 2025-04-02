@@ -50,6 +50,5 @@ Time-limited offer: `10 SOL` for initial fee (Available for 1 month for 10 token
 ## CONTACT
 > Telegram: https://t.me/tom19mr  
 
-> Discord: @tom1919.
 
 
